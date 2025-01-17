@@ -27,6 +27,7 @@ alias 'lc'='clear'
 alias 'c'='clear'
 alias 'sl'='ls'
 alias 'python'='python3'
+alias 'pip'='pip3'
 alias 'md'='~/Code/md_of_iwrite'
 
 export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
