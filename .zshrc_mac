@@ -25,10 +25,12 @@ alias ':q'='exit'
 alias 'cl'='clear'
 alias 'lc'='clear'
 alias 'c'='clear'
-alias 'sl'='ls'
+alias 'sl'='ls -a --color=always'
+alias 'ls'='ls -a --color=always'
 alias 'python'='python3'
 alias 'pip'='pip3'
 alias 'md'='~/Code/md_of_iwrite'
+alias 'nc'='~/.config/nvim/'
 
 export PATH="/opt/homebrew/opt/llvm/bin:$PATH"
 export PATH="/Users/zyzds/Documents/kotlin-native-prebuilt-macos-aarch64-2.0.10/bin:$PATH"

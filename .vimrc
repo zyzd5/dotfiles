@@ -21,6 +21,8 @@ nnoremap <leader>l <C-w>l
 nnoremap <leader>j <C-w>j
 nnoremap <leader>k <C-w>k
 
+noremap <leader>va ggVG
+
 nnoremap ; ^
 nnoremap ' $
 vnoremap ; ^
@@ -31,7 +33,7 @@ nnoremap q: <Nop>
 nnoremap <C-e> <Nop>
 nnoremap s <Nop>
 
-vnoremap J >+1<CR>gv=gv
-vnoremap K <-2<CR>gv=gv
+" vnoremap J >+1<CR>gv=gv
+" vnoremap K <-2<CR>gv=gv
 
 nnoremap <leader>va ggVG
