@@ -1,17 +1,18 @@
 // -*- mode: jsonc -*-
 {
-    // "layer": "top", // Waybar at top layer
-    // "position": "bottom", // Waybar position (top|bottom|left|right)
-    "height": 30, // Waybar height (to be removed for auto height)
-    // "width": 1280, // Waybar width
-    "spacing": 4, // Gaps between modules (4px)
-    // Choose the order of the modules
+    "position": "top", 
+    "height": 30, // blank for auto height 
+    // "width": 1280, // blank for auto width
+    "spacing": 10, // gaps in between of different modules
+
     "modules-left": [
         "hyprland/workspaces",
     ],
+
     "modules-center": [
         "hyprland/window"
     ],
+
     "modules-right": [
         "mpd",
         "idle_inhibitor",
@@ -30,6 +31,7 @@
         "tray",
         "custom/power"
     ],
+
      "hyprland/workspaces": {
          "disable-scroll": true,
          "all-outputs": true,
