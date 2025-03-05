@@ -1,0 +1,19 @@
+background = 282c34
+foreground = ffffff
+background-opacity = 0.8
+
+font-family = UbuntuMono Nerd Font Mono
+font-size = 30
+
+window-height = 24
+window-width = 85
+window-padding-x = 20
+window-padding-y = 10
+
+adjust-cell-height = 15
+adjust-cell-width = 1
+
+theme = GruvboxDark
+
+keybind = "ctrl+,=reload_config"
+
