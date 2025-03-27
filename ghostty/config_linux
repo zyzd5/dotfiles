@@ -1,0 +1,20 @@
+theme = catppuccin-macchiato
+font-size = 24
+font-feature = "-calt, -liga, -dlig"
+font-family = JetBrainsMonoNL NFM Light
+
+background-opacity = 1.0
+background-blur-radius = 00
+
+mouse-hide-while-typing = true
+                            
+window-height = 24
+window-width = 85
+window-padding-x = 20
+window-padding-y = 10
+window-decoration = auto
+
+adjust-cell-height = 10
+adjust-cell-width = 1
+
+cursor-color = #7287fd	
