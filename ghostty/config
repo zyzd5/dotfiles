@@ -1,19 +1,21 @@
-background = 282c34
-foreground = ffffff
-background-opacity = 0.8
+theme = catppuccin-macchiato
+theme = catppuccin-mocha
+font-size = 24
+font-feature = "-calt, -liga, -dlig"
+font-family = JetBrains Mono
 
-font-family = UbuntuMono Nerd Font Mono
-font-size = 30
+background-opacity = 1.0
+background-blur-radius = 00
 
+mouse-hide-while-typing = true
+                            
 window-height = 24
 window-width = 85
 window-padding-x = 20
 window-padding-y = 10
+window-decoration = auto
 
-adjust-cell-height = 15
+adjust-cell-height = 10
 adjust-cell-width = 1
 
-theme = GruvboxDark
-
-keybind = "ctrl+,=reload_config"
-
+cursor-color = #7287fd	
