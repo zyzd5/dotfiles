@@ -1,5 +1,4 @@
 theme = catppuccin-macchiato
-theme = catppuccin-mocha
 font-size = 24
 font-feature = "-calt, -liga, -dlig"
 font-family = JetBrains Mono
